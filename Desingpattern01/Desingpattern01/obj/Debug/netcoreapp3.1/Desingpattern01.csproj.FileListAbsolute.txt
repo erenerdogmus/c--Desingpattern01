@@ -1,0 +1,14 @@
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\bin\Debug\netcoreapp3.1\Desingpattern01.exe
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\bin\Debug\netcoreapp3.1\Desingpattern01.deps.json
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\bin\Debug\netcoreapp3.1\Desingpattern01.runtimeconfig.json
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\bin\Debug\netcoreapp3.1\Desingpattern01.runtimeconfig.dev.json
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\bin\Debug\netcoreapp3.1\Desingpattern01.dll
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\bin\Debug\netcoreapp3.1\Desingpattern01.pdb
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\obj\Debug\netcoreapp3.1\Desingpattern01.csproj.AssemblyReference.cache
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\obj\Debug\netcoreapp3.1\Desingpattern01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\obj\Debug\netcoreapp3.1\Desingpattern01.AssemblyInfoInputs.cache
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\obj\Debug\netcoreapp3.1\Desingpattern01.AssemblyInfo.cs
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\obj\Debug\netcoreapp3.1\Desingpattern01.csproj.CoreCompileInputs.cache
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\obj\Debug\netcoreapp3.1\Desingpattern01.dll
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\obj\Debug\netcoreapp3.1\Desingpattern01.pdb
+C:\Users\ERENERDOGMUS\source\repos\Desingpattern01\Desingpattern01\obj\Debug\netcoreapp3.1\Desingpattern01.genruntimeconfig.cache
